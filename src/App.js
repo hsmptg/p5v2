@@ -8,7 +8,7 @@ function App() {
       <div className='sketch'>
       <Sketch />
       </div>
-      <p>Diogo + Helio &copy; 2024</p>
+      <p>Diogo &copy; 2024</p>
     </div>
   );
 }
